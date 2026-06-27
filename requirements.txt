@@ -1,5 +1,14 @@
 openai
 langchain
+langchain-openai
+langchain-ollama
+langchain-classic
+langchain-community
 streamlit
 python-dotenv
 PyPDF2
+setuptools
+
+
+
+-e .
