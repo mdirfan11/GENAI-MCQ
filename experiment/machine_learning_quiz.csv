@@ -1,0 +1,11 @@
+0,1,2,3
+1,Who is credited with coining the term 'machine learning' in 1959?,"('a: Donald Hebb | b: Alan Turing | c: Arthur Samuel | d: Nils Nilsson',)",c
+2,"What synonym was used for machine learning during its early period, according to the text?","('a: Artificial Intelligence | b: Self-teaching computers | c: Cognitive Computing | d: Pattern Recognition Systems',)",b
+3,"Which psychologist published 'The Organization of Behavior' in 1949, laying groundwork for neural theories?","('a: Walter Pitts | b: Warren McCulloch | c: Donald Hebb | d: Tom M. Mitchell',)",c
+4,"What early experimental machine, developed by Raytheon Company in the 1960s, analyzed signals like sonar and speech?","('a: AlphaGo | b: The Checker Program | c: Cybertron | d: GAN',)",c
+5,"According to Tom M. Mitchell's definition, what are the three components used to describe if a program is 'learning'?","('a: Data, Algorithms, and Tasks | b: Experience (E), Task (T), and Performance Measure (P) | c: Neural Structure, Connections, and Data | d: Human Thought, Logic, and Computation',)",b
+6,"In his paper 'Computing Machinery and Intelligence,' Alan Turing suggested replacing the question 'Can machines think?' with what test?","('a: Calculating checkers win chances. | b: Analyzing sonar signals. | c: Convincingly imitating a human in responses. | d: Developing mathematical neural models.',)",c
+7,"Who proposed the first mathematical model of neural networks, mirroring human thought processes?","('a: Arthur Samuel | b: Ian Goodfellow | c: Walter Pitts and Warren McCulloch | d: Nils Nilsson',)",c
+8,"What type of advanced network did Ian Goodfellow introduce in 2014, capable of producing realistic synthetic data?","('a: Reinforcement Networks | b: Deep Convolutional Networks | c: Generative Adversarial Networks (GANs) | d: Transformer Models',)",c
+9,Which AI program achieved a major milestone in 2016 by defeating top human players in the game of Go?,"('a: Cybertron | b: The Checker Program | c: AlphaGo | d: Learning Machines',)",c
+10,"In what year was a report given detailing how an artificial neural network could learn to recognize 40 characters (letters, digits, and symbols)?","('a: 1959 | b: 1973 | c: 2014 | d: 1981',)",d
